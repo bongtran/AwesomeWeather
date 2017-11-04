@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Awesome Weather</string>
+    <string name="txt_search_hint">London, Ho Chi Minh</string>
+    <string name="txt_title_awesome">Awesome Weather Search</string>
+    <string name="txt_title_weather_search">Weather Search</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_status_waiting">Waiting</string>
+    <string name="txt_cant_connect">Can\'t connect to the server</string>
+    <string name="txt_title_no_internet">No Internet Connection</string>
+    <string name="txt_msg_no_internet">There is no internet connection to show weather information!</string>
+    <string name="txt_title_not_found">Not Found</string>
+    <string name="txt_msg_not_found">Can\'t connect to the server!</string>
+    <string name="txt_msg_not_found_name">Unable to find any matching weather location to the query submitted!</string>
+    <string name="txt_msg_type_to_search">Please type location to search</string>
+</resources>
